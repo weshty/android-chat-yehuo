@@ -247,7 +247,7 @@
             android:label="联系人" />
         <activity
             android:name=".user.SetNameActivity"
-            android:label="修改野火ID" />
+            android:label="修改星云ID" />
         <activity
             android:name=".voip.conference.ConferenceInviteActivity"
             android:label="会议邀请" />

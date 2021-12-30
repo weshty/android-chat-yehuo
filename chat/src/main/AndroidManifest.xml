@@ -86,7 +86,7 @@
 
         <activity
             android:name="cn.wildfire.chat.app.main.MainActivity"
-            android:label="野火IM"
+            android:label="星云IM"
             android:launchMode="singleTask"
             android:exported="false">
             <intent-filter>
